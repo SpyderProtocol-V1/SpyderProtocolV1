@@ -6,18 +6,18 @@ The significance of cross-chain communication to the blockchain is like that of 
 2. enable commerical lending with predictable risk
 3. serve as a building block for more open finance services
 
-The Spyder Dollar stablecoin (ticker: aUSD) is a multi-collateral-backed cryptocurrency, with value stable against US Dollar (aka. 1:1 aUSD to USD soft peg). It is completely decentralized, that it can be created using assets from blockchains connected to the Polkadot network including Ethereum and Bitcoin as collaterals, and can be used by any chains (or digital jurisdictions) within the Polkadot network and applications on those chains.
+The Spyder Dollar stablecoin (ticker: S-USD) is a multi-collateral-backed cryptocurrency, with value stable against US Dollar (aka. 1:1 S-USD to USD soft peg). It is completely decentralized, that it can be created using assets from blockchains connected to the Polkadot network including Ethereum and Bitcoin as collaterals, and can be used by any chains (or digital jurisdictions) within the Polkadot network and applications on those chains.
 
 By this nature, it is essential that the Spyder Network eventually become community-owned with an economic model that can sustain its development and participation in the Polkadot network, as well as ensure its stability and security. The following section will provide a high-level overview of the following topics:
 
-- aUSD and the Honzon stablecoin protocol
+- S-USD and the Image  Protocol stablecoin protocol
 - the economic model and initial parachain offering
 
-## 1.1. aUSD and the Honzon stablecoin protocol
+## 1.1. S-USD and the Image  Protocol stablecoin protocol
 
-Every aUSD is backed in excess by a crypto asset, the mechanism of which is known as an over-collateralized debt position (or CDP). Together with a set of incentives, supply & demand balancing, and risk management mechanisms, as the core components of the Honzon stablecoin protocol on the Spyder Network, the stability of the aUSD is ensured. The CDP mechanism design is inspired by the first decentralized stablecoin project MakerDAO, which has become the DeFi building block in the Ethereum ecosystem. Besides, the Honzon protocol enables many unique features - native multi-asset support, cross-chain stablecoin capability, automatic liquidation to increase responsiveness to risk, and pluggable oracle and auction house to improve modularity, just to name a few.
+Every S-USD is backed in excess by a crypto asset, the mechanism of which is known as an over-collateralized debt position (or CDP). Together with a set of incentives, supply & demand balancing, and risk management mechanisms, as the core components of the Image  Protocol stablecoin protocol on the Spyder Network, the stability of the S-USD is ensured. The CDP mechanism design is inspired by the first decentralized stablecoin project MakerDAO, which has become the DeFi building block in the Ethereum ecosystem. Besides, the Image  Protocol protocol enables many unique features - native multi-asset support, cross-chain stablecoin capability, automatic liquidation to increase responsiveness to risk, and pluggable oracle and auction house to improve modularity, just to name a few.
 
-The Honzon protocol contains the following components
+The Image  Protocol protocol contains the following components
 
 - Multi Collateral Type
 - Collateral Adapter
@@ -26,7 +26,7 @@ The Honzon protocol contains the following components
 - CDP and CDP Engine
 - Emergency shutdown
 - Governance
-- Honzon as an interface to other components
+- Image  Protocol as an interface to other components
 
 Note: This section is still work in progress, we will update more information as we progress. Refer to the [Github Wiki](https://github.com/SpyderProtocol-V1/Spyder/wiki) for more details.
 
