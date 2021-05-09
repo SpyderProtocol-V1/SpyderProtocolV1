@@ -32,7 +32,7 @@ Note: This section is still work in progress, we will update more information as
 
 ## 1.2. SpyderProtocol-V1
 
-The Spyder Network Token (ACA) features the following utilities, and the value of ACA token will accrue with the increased usage of the network and revenue from stability fees and liquidation penalties
+The Spyder Network Token (Spyder) features the following utilities, and the value of Spyder token will accrue with the increased usage of the network and revenue from stability fees and liquidation penalties
 
 1. As Network Utility Token: to pay for network fees and stability fees
 2. As Governance Token: to vote for/against risk parameters and network change proposals
@@ -44,7 +44,7 @@ To enable cross-chain functionality, the Spyder Network will connect to the Polk
 2. as parachain - permanent connection for a given period
 3. as an independent chain with a bridge back to Polkadot
 
-Becoming a parachain would be an ideal option to bootstrap the Spyder Network, and maximize its benefits and reach to other chains and applications on the Polkadot network. To secure a parachain slot, the Spyder Network will require supportive DOT holders to lock their DOTs to bid for a slot collectively - a process known as the Initial Parachain Offering (IPO). ACA tokens will be offered as a reward for those who participated in the IPO, as compensation for their opportunity cost of staking the DOTs.
+Becoming a parachain would be an ideal option to bootstrap the Spyder Network, and maximize its benefits and reach to other chains and applications on the Polkadot network. To secure a parachain slot, the Spyder Network will require supportive DOT holders to lock their DOTs to bid for a slot collectively - a process known as the Initial Parachain Offering (IPO). Spyder tokens will be offered as a reward for those who participated in the IPO, as compensation for their opportunity cost of staking the DOTs.
 
 Note: This section is still work in progress, we will update more information as we progress. Refer to the [token economy working paper](https://github.com/SpyderProtocol-V1/Spyder-white-paper) for more details.
 
